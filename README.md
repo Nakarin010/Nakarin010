@@ -1,4 +1,6 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+There++I'm+drive)](https://git.io/typing-svg)
+
+<!--## Hi there 👋-->
 I code with 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
