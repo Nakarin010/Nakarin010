@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+There++I'm+drive)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3000&center=true&width=600&height=100&lines=Hello+There+;I'm+drive;How+are+you+today%3F)](https://git.io/typing-svg)
+
+
 
 <!--## Hi there 👋-->
 I code and stil learning with
