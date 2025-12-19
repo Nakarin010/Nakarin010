@@ -12,7 +12,7 @@ I code and still learning with
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
-- 🔭 I’m currently working on The ALLcare and Agentic Finance, both are in my repos.
+- 🔭 I’m currently working on The ALLcare (Senior Project) and Agentic Finance, both are in my repos.
 - 🌱 I’m currently learning Langgraph
 - 📫 How to reach me: call me Drive
 - 😄 Pronouns: He/Him
