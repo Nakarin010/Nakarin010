@@ -12,9 +12,6 @@ I code and still learning with
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
 
-**Nakarin010/Nakarin010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on The ALLcare and Agentic Finance, both are in my repos.
 - 🌱 I’m currently learning Langgraph
 - 📫 How to reach me: call me Drive
