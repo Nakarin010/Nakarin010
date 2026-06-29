@@ -12,5 +12,5 @@ I code and still learning with ![Python](https://img.shields.io/badge/python-367
 
 - 🔭 I’m currently working on [ALLcare, Medical Application to classify skin lesion](https://github.com/ChawanakornI/SeniorProjectAl) and [Agentic Finance,web-based application on finance](https://github.com/Nakarin010/SmokeNMirror)
 - 🌱 I’m currently learning Langgraph
-- 📫 How to reach me: call me Drive
+- 📫 How to reach me: nakarinn0101@gmail.com
 - 😄 Pronouns: He/Him
