@@ -47,12 +47,6 @@ An agentic AI workflow that analyzes financial data and generates structured ins
 
 `Python` `LangGraph` `LangChain` `Groq API` `Typhoon API` `TA-Lib`
 
-## Experience highlights
-
-- **Data Scientist Intern, Trinity Securities' IdeaTrade** — Built a top-down flight analytics dashboard and collected and cleaned its supporting data.
-- **Bloomberg Thailand Training** — Studied ETF fund flows, equity-research workflows, and portfolio analytics with Bloomberg PORT.
-- **NECTEC NSTDA LLM Workshop** — Practiced continued pre-training and fine-tuning on Thailand's LANTA high-performance computing cluster.
-
 ## Tools I work with
 
 **Languages:** Python, SQL, HTML, Dart, Bash<br>
